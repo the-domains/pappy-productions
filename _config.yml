@@ -1,5 +1,5 @@
-layout_spectrum: 0.809638247359544
-typography_spectrum: 0.7166570392437279
+layout_spectrum: 0.3540165650192648
+typography_spectrum: 0.7517569502815604
 color:
   brandStrength: 0.3192311259917915
   lightness: 0.8983018356375396
@@ -11,6 +11,8 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+coverPrefs:
+  filter: false
 content_rating:
   adult: false
 github: true
