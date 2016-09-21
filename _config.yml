@@ -1,0 +1,31 @@
+typography_spectrum: 0.7059608302079141
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.2963703591376543
+  lightness: 0.4965271579567343
+  saturation: 0.35509471758268774
+  rhythmicContrast: 0.36026525124907494
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f207ee1-af4d-4746-ae29-edd3c3c31527.jpg
+layout_spectrum: 0.2041432021651417
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ecd191-4ef0-4120-a720-4d7b8531fc5b.png
+name: Pappy Productions
+navigation:
+  - name: Photo Booth
+    id: 9df5b283-2cd9-4776-a3d0-61839f9bf0d5
+    type: content
+  - name: Real Estate Photography
+    id: abe61936-f922-4eba-9b8a-1e89099e5b0b
+    type: content
+title: Event / Photography Services
+purpose: []
