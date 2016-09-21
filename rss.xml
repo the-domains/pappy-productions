@@ -4,15 +4,22 @@
         <description><![CDATA[Pappy Productions]]></description>
         <link>https://thegrid.ai/pappy-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Sep 2016 15:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2016 15:46:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pappy-productions/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Sep 2016 15:37:56 GMT</pubDate>
+        <pubDate>Wed, 21 Sep 2016 15:45:57 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f13033-8416-4f43-b630-b04b02dfc9d9.jpg">]]></description>
             <link>https://thegrid.ai/pappy-productions/dj-pappy-the-perch/index.html</link>
             <guid isPermaLink="false">e2c89937-4f4d-4659-8168-b7945258700b</guid>
             <pubDate>Wed, 21 Sep 2016 15:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real Estate Photography Services]]></title>
+            <description><![CDATA[<article><h1>Real Estate Photography Services</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e733caee-a30b-47a2-afc9-e1b6ecac344d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pappy-productions/real-estate-photography-services/index.html</link>
+            <guid isPermaLink="false">abe61936-f922-4eba-9b8a-1e89099e5b0b</guid>
+            <pubDate>Wed, 21 Sep 2016 15:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DJ PAPPY Pelicans Perch 2/20/2016 -#1]]></title>
@@ -27,13 +34,6 @@
             <link>https://thegrid.ai/pappy-productions/photo-booth/index.html</link>
             <guid isPermaLink="false">9df5b283-2cd9-4776-a3d0-61839f9bf0d5</guid>
             <pubDate>Wed, 21 Sep 2016 03:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real Estate Photography Services]]></title>
-            <description><![CDATA[<article><h1>Real Estate Photography Services</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76fda3c-6253-4d1a-8a2e-f2f5e1ead259.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pappy-productions/real-estate-photography-services/index.html</link>
-            <guid isPermaLink="false">abe61936-f922-4eba-9b8a-1e89099e5b0b</guid>
-            <pubDate>Tue, 20 Sep 2016 16:58:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
