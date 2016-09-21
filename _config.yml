@@ -29,4 +29,7 @@ navigation:
     type: content
 title: Pappy Productions
 description: Media Services
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:bennyhipp@gmail.com'
+    label: Contact me
