@@ -1,6 +1,5 @@
-typography_spectrum: 0.7059608302079141
-content_rating:
-  adult: false
+layout_spectrum: 0.9995565398130566
+typography_spectrum: 0.7786845392547548
 color:
   brandStrength: 0.2963703591376543
   lightness: 0.4965271579567343
@@ -12,11 +11,12 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+content_rating:
+  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f207ee1-af4d-4746-ae29-edd3c3c31527.jpg
-layout_spectrum: 0.2041432021651417
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ecd191-4ef0-4120-a720-4d7b8531fc5b.png
 name: Pappy Productions
