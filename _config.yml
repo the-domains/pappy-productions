@@ -1,22 +1,24 @@
-typography_spectrum: 0.51734365709126
+layout_spectrum: 0.15834245434962213
+typography_spectrum: 0.3182640033774078
+color:
+  brandStrength: 0.912254192866385
+  lightness: 0.813266014913097
+  saturation: 0.3817673104349524
+  rhythmicContrast: 0.35011953953653574
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+coverPrefs:
+  filter: false
 content_rating:
   adult: false
-color:
-  brandStrength: 0.3192311259917915
-  lightness: 0.8983018356375396
-  saturation: 0.4399018017575145
-  rhythmicContrast: 0.5653424367774278
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f207ee1-af4d-4746-ae29-edd3c3c31527.jpg
-layout_spectrum: 0.3540165650192648
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ecd191-4ef0-4120-a720-4d7b8531fc5b.png
 name: Pappy Productions
@@ -31,8 +33,6 @@ navigation:
     id: 0afd7a70-b6b3-493d-90eb-441056d5ce51
     type: content
 title: Pappy Productions
-coverPrefs:
-  filter: false
 description: Media Services
 purpose:
   - type: contact
