@@ -1,15 +1,15 @@
 ---
-title: ''
-datePublished: '2016-09-21T15:37:56.047Z'
-dateModified: '2016-09-21T15:37:55.712Z'
-publisher: {}
-author: []
+datePublished: '2016-09-21T15:53:01.259Z'
+sourcePath: _posts/2016-09-20-dj-pappy-the-perch.md
 inFeed: true
 hasPage: true
-description: Dj Pappy @ the Perch
+author: []
 via: {}
+dateModified: '2016-09-21T15:53:00.355Z'
+title: ''
+publisher: {}
+description: Dj Pappy @ the Perch
 starred: false
-sourcePath: _posts/2016-09-20-dj-pappy-the-perch.md
 url: dj-pappy-the-perch/index.html
 _type: Article
 
