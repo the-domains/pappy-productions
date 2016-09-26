@@ -1,5 +1,6 @@
-layout_spectrum: 0.458323260769248
 typography_spectrum: 0.9845504933036864
+content_rating:
+  adult: false
 color:
   brandStrength: 0.460369901265949
   lightness: 0.5195900248363614
@@ -11,14 +12,11 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f207ee1-af4d-4746-ae29-edd3c3c31527.jpg
+layout_spectrum: 0.458323260769248
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ecd191-4ef0-4120-a720-4d7b8531fc5b.png
 name: Pappy Productions
@@ -33,8 +31,13 @@ navigation:
     id: 0afd7a70-b6b3-493d-90eb-441056d5ce51
     type: content
 title: Pappy Productions
+coverPrefs:
+  filter: false
 description: Media Services
 purpose:
   - type: contact
     url: 'mailto:bennyhipp@gmail.com'
     label: Contact me
+  - type: contact
+    url: 'tel:704-517-1624'
+    label: Call 704-517-1624
