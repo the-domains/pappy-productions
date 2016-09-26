@@ -38,6 +38,3 @@ purpose:
   - type: contact
     url: 'mailto:bennyhipp@gmail.com'
     label: Contact me
-  - type: contact
-    url: 'tel:704-517-1624'
-    label: 'Call '
