@@ -1,15 +1,15 @@
 ---
 title: Photo Booth
-datePublished: '2016-09-26T04:13:09.548Z'
-dateModified: '2016-09-26T04:13:09.279Z'
+datePublished: '2016-09-26T04:13:53.114Z'
+dateModified: '2016-09-26T04:13:52.838Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: Photo booth Fun
 via: {}
-starred: true
 sourcePath: _posts/2016-09-21-photo-booth.md
+starred: true
 url: photo-booth/index.html
 _type: Article
 
