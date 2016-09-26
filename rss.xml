@@ -4,9 +4,9 @@
         <description><![CDATA[Pappy Productions]]></description>
         <link>https://thegrid.ai/pappy-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Sep 2016 04:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2016 04:44:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pappy-productions/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Sep 2016 04:13:46 GMT</pubDate>
+        <pubDate>Mon, 26 Sep 2016 04:44:58 GMT</pubDate>
         <item>
             <title><![CDATA[Dj Pappy]]></title>
             <description><![CDATA[<article><h1>Dj Pappy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4dae7cec0da56a8d426e03631fc5a846be9b219.jpg"></article>]]></description>
@@ -15,11 +15,11 @@
             <pubDate>Mon, 26 Sep 2016 04:13:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Photo Booth]]></title>
-            <description><![CDATA[<article><h1>Photo Booth</h1><p>Photo booth Fun</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a511c1d-d509-4f9c-a6e0-62409ae0ce9d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pappy-productions/photo-booth/index.html</link>
-            <guid isPermaLink="false">9df5b283-2cd9-4776-a3d0-61839f9bf0d5</guid>
-            <pubDate>Mon, 26 Sep 2016 04:13:09 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Check Me out</p>]]></description>
+            <link>https://www.facebook.com/djpappyoib/</link>
+            <guid isPermaLink="false">7e4c445c-3b17-4a68-afc0-9c96a5aceef4</guid>
+            <pubDate>Mon, 26 Sep 2016 04:44:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Real Estate Photography Services]]></title>
@@ -27,6 +27,13 @@
             <link>https://thegrid.ai/pappy-productions/real-estate-photography-services/index.html</link>
             <guid isPermaLink="false">abe61936-f922-4eba-9b8a-1e89099e5b0b</guid>
             <pubDate>Wed, 21 Sep 2016 15:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photo Booth]]></title>
+            <description><![CDATA[<article><h1>Photo Booth</h1><p>Photo booth Fun</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a511c1d-d509-4f9c-a6e0-62409ae0ce9d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pappy-productions/photo-booth/index.html</link>
+            <guid isPermaLink="false">9df5b283-2cd9-4776-a3d0-61839f9bf0d5</guid>
+            <pubDate>Mon, 26 Sep 2016 04:13:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
