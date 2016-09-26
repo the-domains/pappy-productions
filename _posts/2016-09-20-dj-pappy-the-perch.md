@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-21T15:54:00.345Z'
+datePublished: '2016-09-26T04:13:09.535Z'
 sourcePath: _posts/2016-09-20-dj-pappy-the-perch.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-21T15:53:59.911Z'
+dateModified: '2016-09-26T04:13:09.279Z'
 title: ''
 publisher: {}
 description: ''
